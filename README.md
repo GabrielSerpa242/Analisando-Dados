@@ -1,2 +1,2 @@
-# Analisando-Dados
- Este projeto serve como um template para análise e execução de tarefas em Python, especialmente no contexto de notebooks Jupyter. Ele é ideal para fins educacionais e demonstrações práticas.
+# Analise Dados
+ Este projeto serve como um template para análise e execução de tarefas usando a linguagem de programção em Python, especialmente no contexto de notebooks Jupyter. Ele é ideal para fins educacionais e demonstrações práticas, de como funciona analise de dados.
