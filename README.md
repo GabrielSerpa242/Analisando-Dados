@@ -3,4 +3,4 @@
 
 
 ## Tecnologias
-![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=1DE41A).
+![PYTHON](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=1DE41A)
